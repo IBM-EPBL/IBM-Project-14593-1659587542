@@ -1,0 +1,24 @@
+.bg-img-future {
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:130vh;
+    position: relative;
+    left: -8px;
+    top:-20px;
+    width:203.8vh;
+}
+
+.future-container {
+    position: relative;
+    top: 20px;
+}
+
+.future-title {
+    color:orange;
+    font-style: normal;
+    font-size: 1.5em;
+    margin-top: 5px
+}
+
+
+
